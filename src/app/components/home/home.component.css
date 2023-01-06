@@ -1,0 +1,23 @@
+mat-card {
+    width: 70%;
+    margin: 1rem auto;
+    background-color: rgb(235, 235, 235);
+ }
+
+ img {
+    height: 12rem;
+ }
+
+ .mat-card>:first-child, .mat-card-content>:first-child {
+    margin-top: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+p {
+    text-align: center;
+}
