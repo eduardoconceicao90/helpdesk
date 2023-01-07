@@ -1,15 +1,11 @@
 mat-card {
-    width: 70%;
-    margin: 1rem auto;
+    width: 75%;
+    margin: -2rem auto;
     background-color: rgb(235, 235, 235);
  }
 
- img {
+img {
     height: 12rem;
- }
-
- .mat-card>:first-child, .mat-card-content>:first-child {
-    margin-top: 20px;
 }
 
 .title {
@@ -20,4 +16,8 @@ mat-card {
 
 p {
     text-align: center;
+}
+
+.mat-card>:first-child, .mat-card-content>:first-child {
+    margin-top: 10px;
 }
