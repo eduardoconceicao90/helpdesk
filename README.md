@@ -7,4 +7,4 @@ Senha: 123</br>
 Obs: Foi utilizado o Railway para deploy da API(back-end)
 #
 
-![Alt Text](http://g.recordit.co/JpvP23AQed.gif)
+![JpvP23AQed](https://user-images.githubusercontent.com/71357905/211878000-d1f6be54-f6fe-47d9-8eed-5df0c93b6fa4.gif)
