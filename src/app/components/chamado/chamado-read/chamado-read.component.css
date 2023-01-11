@@ -1,0 +1,36 @@
+.container {
+    width: 45%;
+    margin: auto auto 3rem auto;
+    padding: 1rem;
+    border-radius: 1rem;
+ }
+
+.fullWidth {
+    width: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: .7rem;
+}
+
+img {
+    height: 12rem;
+    margin: auto;
+}
+
+.observacoes {
+    min-height: 6rem;
+    max-height: 10rem;
+ }
+ 
+ button {
+    margin-top: .5rem;
+ }
+ 
+p {
+    text-align: center;
+    margin-top: 2rem;
+    opacity: .5;
+}
