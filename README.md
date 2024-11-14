@@ -2,7 +2,7 @@
 
 Login: eduardo@mail.com</br>
 Senha: 123</br>
-*Token válido por 15 minutos
+*Token válido por 15 minutos 
 
 Obs: Foi utilizado o Railway para deploy da API(back-end)</br>
 Link API: https://github.com/eduardoconceicao90/helpdesk-api
